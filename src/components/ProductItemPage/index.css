@@ -1,0 +1,140 @@
+
+.product-details-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.product-details-page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(152, 149, 152);
+    padding: 60px 4px 60px 4px;
+}
+
+.product-details-page-card-container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 14px;
+    background-color: white;
+    width: 84%;
+    padding: 40px 20px 40px 20px;
+}
+
+.product-image-and-details-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.pro-image {
+    width: 320px;
+    height: 300px;
+}
+
+.pro-page-details-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 14px;
+}
+
+.product-title {
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(33, 34, 34);
+    margin-bottom: -5px;
+}
+
+.product-category {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(33, 34, 34);
+    padding-top: 0px;
+}
+
+.category-special-text {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(237, 62, 173);
+}
+
+.product-price {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(33, 34, 34);
+    margin-top: -2px;
+}
+
+.price-special-text {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(235, 18, 69);
+}
+
+.product-rating {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(33, 34, 34);
+    margin-top: -2px;
+}
+
+.rating-special-text {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(81, 19, 215);
+}
+
+.product-rating-count {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(33, 34, 34);
+    margin-top: -2px;
+}
+
+.rating-count-special-text {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(79, 81, 82);
+}
+
+
+.hori-line {
+    width: 100%;
+    border: 1px solid rgb(91, 91, 93);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.description-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.description-heading {
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(29, 25, 44);
+}
+
+.description-text {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: rgb(84, 85, 85);
+}
+
+
